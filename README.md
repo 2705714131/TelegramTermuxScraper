@@ -21,15 +21,19 @@ To Genrate User Data ↓
 
 $ python3 scraper.py
 
-( members.csv is default if you changed name use it )
-
 Send Bulk sms To Collected Data ↓
 
+(members.csv is default if you changed name use it)
+
 $ python3 smsbot.py members.csv
+
+or $ python3 smsbot.py Other_members.csv
 
 Add users to your group ↓
 
 $ python3 adder.py
+
+or python3 add2group.py members.csv
 
 Update Tool ↓
 
