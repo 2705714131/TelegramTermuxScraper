@@ -32,3 +32,7 @@ $ python3 add2group.py
 Update Tool ↓(Beta Don't do it!)
 
 $ python3 setup.py -u
+
+errors manual ↓
+
+https://core.telegram.org/api/errors
