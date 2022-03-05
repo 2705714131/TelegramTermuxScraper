@@ -116,7 +116,7 @@ def merge_csv():
 def update_tool():
 	import requests as r
 	banner()
-	source = r.get("https://raw.githubusercontent.com/2705714131/TelegramTermuxScraper/master/.image/.version")
+	source = r.get("https://raw.githubusercontent.com/2705714131/TelegramTermuxScraper/master/.version")
 	if source.text == '3':
 		print(gr+'['+cy+'+'+gr+']'+cy+' alredy latest version')
 	else:
