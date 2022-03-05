@@ -25,6 +25,10 @@ Send Bulk sms To Collected Data ↓
 
 $ python3 smsbot.py members.csv
 
+Add users to your group ↓
+
+$ python3 adder.py
+
 Update Tool ↓(Beta Don't do it!)
 
 $ python3 setup.py -u
