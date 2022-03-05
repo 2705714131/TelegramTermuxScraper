@@ -29,9 +29,9 @@ $ python3 smsbot.py members.csv
 
 Add users to your group ↓
 
-$ python3 add2group.py
+$ python3 adder.py
 
-Update Tool ↓(Beta Don't do it!)
+Update Tool ↓
 
 $ python3 setup.py -u
 
