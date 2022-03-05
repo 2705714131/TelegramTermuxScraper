@@ -27,13 +27,17 @@ https://my.telegram.org/auth?to=apps
 
     $ python3 smsbot.py members.csv
 
- or $ python3 smsbot.py Other_members.csv
+    or 
+
+    $ python3 smsbot.py Other_members.csv
 
 🤨Add users to your group ↓
 
     $ python3 adder.py
 
-or  $ python3 add2group.py members.csv
+    or  
+
+    $ python3 add2group.py members.csv
 
 🤪Update Tool ↓
 
