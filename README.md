@@ -25,6 +25,6 @@ Send Bulk sms To Collected Data ↓
 
 $ python3 smsbot.py members.csv
 
-Update Tool ↓
+Update Tool ↓(Beta Don't do it!)
 
 $ python3 setup.py -u
