@@ -11,6 +11,8 @@
 
     $ python3 setup.py -i
 
+    $ python3 upgrade
+
 😎setup configration file -API Rec
 https://my.telegram.org/auth?to=apps
  ( apiID, apiHASH ) ↓
