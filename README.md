@@ -11,7 +11,9 @@ Install requierments ↓
 
 $ python3 setup.py -i
 
-setup configration file ( apiID, apiHASH ) ↓
+setup configration file -API Rec
+https://my.telegram.org/auth?to=apps
+ ( apiID, apiHASH ) ↓
 
 $ python3 setup.py -c
 
