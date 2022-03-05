@@ -5,7 +5,7 @@ $ pkg install -y git python
 
 $ git clone https://github.com/2705714131/TelegramTermuxScraper
 
-$ cd Telegram-Scraper-Prof
+$ cd TelegramTermuxScraper
 
 Install requierments
 $ python3 setup.py -i
